@@ -1,4 +1,4 @@
-# Email Parser Lab
+# Parrot Lab
 
 ## Learning Goals
 
